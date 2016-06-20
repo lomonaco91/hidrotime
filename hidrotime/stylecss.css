@@ -1,0 +1,58 @@
+.demo-card-wide.mdl-card {
+    width: 400px;
+    border-color: black;
+    border: 50px;
+    
+}
+.demo-card-wide > .mdl-card__title {
+    color:black;
+    height: 148px;
+    background: url('hidrotime/hidro.jpg') center / cover;
+    text-align: center;
+}
+.demo-card-wide > .mdl-card__menu {
+    color: black;
+}
+
+.demo-layout-waterfall .mdl-layout__header-row .mdl-navigation__link:last-of-type  {
+  padding-right: 0;
+}
+.mdl-layout__drawer > .mdl-layout-title{
+    font-family:"helvetica";
+    
+}
+.mdl-mega-footer{
+    background-color: dimgray;
+    position: absolute;
+    bottom: 0;
+    height: 20%;
+    line-height: 20%;
+    text-align: center;
+    width: 100%;
+    margin: -60px;
+}
+.mdl-mega-footer__drop-down-section{
+    color: black;
+    font-family: "helvetica";
+}
+.mdl-card__supporting-text{
+    font-family: "helvetica";
+    text-align: justify;
+}
+.text_area{
+    text-align: justify; 
+    margin: 5px;
+    padding: 5px;
+}
+
+.demo-card-square.mdl-card {
+  width: 300px;
+  height: 260px;
+}
+.demo-card-square > .mdl-card__title {
+  color:black;
+    
+}
+
+
+
